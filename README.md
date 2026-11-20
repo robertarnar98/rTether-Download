@@ -4,6 +4,10 @@
 
 Wireless tethering on your iPhone. Your camera sends every shot over Wi-Fi with its built-in **FTP Transfer**, and it shows up in rTether a few seconds later: full-screen viewer, pinch-to-zoom, **LIVE** mode that jumps to the newest shot, stars, and Save to Photos or AirDrop. Works with Sony, Canon, Nikon, Fujifilm and other cameras with FTP transfer, over the iPhone's Personal Hotspot or a pocket Wi-Fi router.
 
+## Watch the 1-minute tour
+
+https://github.com/user-attachments/assets/b3254324-e7fb-4317-afd8-efb230c5a7f3
+
 ## Download
 
 rTether is in testing, so it installs through Apple's **TestFlight** app.
