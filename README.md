@@ -2,7 +2,7 @@
 
 # rTether
 
-Wireless tethering on your iPhone. Your camera sends every shot over Wi-Fi with its built-in **FTP Transfer**, and it shows up in rTether a few seconds later: full-screen viewer, pinch-to-zoom, **LIVE** mode that jumps to the newest shot, stars, and Save to Photos or AirDrop. Works with Sony, Canon, Nikon, Fujifilm and other cameras with FTP transfer, over the iPhone's Personal Hotspot or a pocket Wi-Fi router.
+Tethering on your iPhone, over Wi-Fi or a USB-C cable. Your camera sends every shot over Wi-Fi with its built-in **FTP Transfer**, or straight down a cable, and it shows up in rTether a few seconds later: full-screen viewer, pinch-to-zoom, **LIVE** mode that jumps to the newest shot, stars, and Save to Photos or AirDrop. Works with Sony, Canon, Nikon, Fujifilm and other cameras with FTP transfer, over the iPhone's Personal Hotspot or a pocket Wi-Fi router. **New in 0.2:** plug a Sony or Canon camera into the iPhone with a USB-C cable and shoot.
 
 ## Watch the 1-minute tour
 
@@ -25,6 +25,9 @@ In rTether, tap **How to Connect**. It walks you through your camera's FTP menu 
 
 - **Personal Hotspot:** turn on the iPhone's hotspot and join it from the camera. Turn on **Maximize Compatibility** if the camera can't see it.
 - **Pocket Wi-Fi router:** join the camera and the iPhone to the same router. Faster and steadier with two cameras at once.
+- **USB-C cable (Sony and Canon):** plug the camera into the iPhone with a USB-C cable that supports data (charge-only cables don't work). Sony: set **USB Connection Mode → PC Remote** first; Canon needs no setup. Tap **Allow** when rTether asks to control the camera, then shoot with the camera or the red shutter button in rTether. Every shot is also kept on the camera's card. Needs an iPhone or iPad with USB-C. Other brands work in a basic mode that hasn't been tested yet.
+
+How to Connect has a **Wireless** and a **Cable** tab with the steps for each brand.
 
 ## Updates
 
@@ -32,7 +35,7 @@ New versions arrive through TestFlight on their own. Each test version works for
 
 ## Privacy
 
-rTether collects nothing: no accounts, no analytics, no tracking, and it never goes online. Photos travel only from your camera to your iPhone over your local Wi-Fi and stay on your iPhone (or a folder you choose). The FTP password is made on your iPhone and kept in its Keychain. Apple's TestFlight shares install and crash counts with the developer, as described in [Apple's privacy policy](https://www.apple.com/legal/privacy/en-ww/).
+rTether collects nothing: no accounts, no analytics, no tracking, and it never goes online. Photos travel only from your camera to your iPhone, over your local Wi-Fi or the USB-C cable, and stay on your iPhone (or a folder you choose). The FTP password is made on your iPhone and kept in its Keychain. Apple's TestFlight shares install and crash counts with the developer, as described in [Apple's privacy policy](https://www.apple.com/legal/privacy/en-ww/).
 
 ## Terms
 
